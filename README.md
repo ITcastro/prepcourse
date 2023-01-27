@@ -1,2 +1,2 @@
-prueba d como crear un repositorio y clonarlo desde github a mi computadora.
+prueba d como crear un repositorio y clonarlo desde github a mi comp
 
