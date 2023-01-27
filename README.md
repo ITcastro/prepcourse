@@ -1,2 +1,2 @@
-# prepcourse
-este es un repositorio de prueba modulo2
+prueba d como crear un repositorio y clonarlo desde github a mi computadora.
+
